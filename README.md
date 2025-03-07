@@ -14,22 +14,3 @@ How much chlorophyll it has (chlorophyll helps plants make food)
 How much protein is in the seeds
 How much water is inside the leaves
 How many seeds the plant produces
-# Columns	                                    Description
-Parameters			                              Unique ID
-Random			                                  Category/Class each soybean plant represents
-Number of Pods (NP)			                      Number of pods (seed holder) per plant
-Biological Weight (BW)	                      Total plant weight
-Sugars (Su)			                              Sugar content in plant
-Relative Water Content in Leaves (RWCL)			  Water content in leaves
-ChlorophyllA663			                          Chlorophyll A content (photosynthesis)
-Chlorophyllb649			                          Chlorophyll B content (photosynthesis)
-Protein Percentage (PPE)			                Protein percentage in plant
-Weight of 300 Seeds (W3S)			                Seed weight measurement
-Leaf Area Index (LAI)			                    Leaf area compared to ground area
-Number of Seeds per Pod (NSP)			            Seeds in each pod
-Protein Content (PCO)			                    Protein content in seeds
-Seed Yield per Unit Area (SYUA)			          Total seed production per area
-Plant Height (PH)			                        Height of the plant
-# Data Socure: - 
-Dataset is available on
-
